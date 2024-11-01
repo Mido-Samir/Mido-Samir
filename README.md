@@ -13,7 +13,7 @@
 
 - 👨‍💻 I'm a Business Technologist at Ashghal
 - 📖 I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with Data Analysis, Power Platform, and Power BI, or anything related to Machine Learning.
+- 💬 Ask me about my experience with Data Analysis, Power Automate , NLP, or anything related to Machine Learning.
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
 - 💻 Check out my Kaggle portfolio at https://www.kaggle.com/midocloud to see some of the projects 💼 I've worked on.
 
